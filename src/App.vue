@@ -4,7 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div>
-   个人介绍111
+   个人介绍
   </div>
   <HelloWorld msg="Vue" />
 </template>
