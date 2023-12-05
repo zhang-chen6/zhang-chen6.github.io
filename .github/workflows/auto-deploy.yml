@@ -53,7 +53,7 @@ jobs:
         run: npm i
       # 打包
       - name: Build application 🔧
-        run: npm run build:prod
+        run: npm run build
 
       # 部署 https://github.com/JamesIves/github-pages-deploy-action
       - name: Deploy 🚀
